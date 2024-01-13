@@ -1,0 +1,3 @@
+rootProject.name = 'n2n-interview'
+
+include 'api', 'application'
